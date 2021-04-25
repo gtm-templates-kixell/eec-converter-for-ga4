@@ -4,6 +4,6 @@ documentation: "https://github.com/gtm-templates-kixell/eec-converter-for-ga4"
 
 versions:
   # Latest Version
-  - sha: c03224c073111d01f96e5f2e8006728064cc0ed7
-    changeNotes: first commit
+  - sha: 83758ec1c66650ba81facc0f84d6fb11e4fc3ded
+    changeNotes: Initial release.
   # Older versions
